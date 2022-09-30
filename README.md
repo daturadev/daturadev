@@ -24,10 +24,6 @@ alt="daturadev" /></a> </p>
 
 - 🤓 Right now, I am working on becoming proficient in **C++, React, Metasploit, and algorithms**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p
  align="left">
@@ -155,6 +151,7 @@ alt="daturadev" /></a> </p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daturadev&" alt="daturadev" />
+</p>
 </p>
 
 
