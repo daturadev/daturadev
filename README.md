@@ -12,15 +12,15 @@ href="https://github.com/ryo-ma/github-profile-trophy"><img
 src="https://github-profile-trophy.vercel.app/?username=daturadev" 
 alt="daturadev" /></a> </p>
 
-- 🔭 My main project is currently ['DorkParse'](https://github.com/daturadev/DorkParse).
+- 🔭 My main project is currently ['SatSpy'](https://github.com/daturadev/SatSpy) among other, private ventures with anonymous collaborators between organizations such as 0intel and ODINT.
 
-- 🌱 I am a web/application developer with a knack for cybersecurity. I aim to put my skills to use in the cybersecurity space.
+- 🌱 I am a a cybersecurity & intelligence professional with a competency for all programming and development languages and human-behavior/criminology. I aim to put my skills to use in the cybersecurity, AI/ML, Quantum Computation, and US National Security sectors of operation.
   
 - 👯 I am always open to collaborate on **projects of mutual interest**
 
 - 👨‍💻 If you would like to view my portfolio, visit: [https://daturadev.github.io/girl/](https://daturadev.github.io/girl/)
 
-- 🤓 I am studying **AWS Solutions Architect, CySa+, and CCNA**, in that order. I am enrolled as a college student, but at a slow and steady pace as I prioritize my career.
+- 🤓 I am studying **AWS Solutions Architect, CySa+, and CCNA. I have obtained a CompTIA Sec+ certification, although currently inactive due to academic focus**. I am enrolled as a full-time college student of STEM.
 
   
 
